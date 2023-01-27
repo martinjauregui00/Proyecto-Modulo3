@@ -7,3 +7,5 @@ Aplicación web comercial de escuela de buceo
 ![Captura de pantalla 2022-12-29 a las 14 29 08](https://user-images.githubusercontent.com/113461287/209985563-749b06b4-a737-46c9-9023-acfc41ae22b1.png)
 ![Captura de pantalla 2022-12-29 a las 14 34 25](https://user-images.githubusercontent.com/113461287/209985567-5822ba00-2262-45c7-b5e1-8642d5576441.png)
 ![Captura de pantalla 2022-12-29 a las 14 35 15](https://user-images.githubusercontent.com/113461287/209985569-222d66bb-e542-4527-8c8e-d3d977125805.png)
+
+Se trata de un proyecto-prototipo centrado en el desarrollo Front-End con React de una web comercial de buceo. Tiene adaptabilidad a dispositivos móviles y librerías como React-scroll para una funcionalidad más atractiva.
